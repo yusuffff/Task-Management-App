@@ -1,0 +1,15 @@
+indexes:
+
+- kind: ElectricVehicle
+  properties:
+  - name: vehicle_battery
+  - name: vehicle_battery
+- kind: ElectricVehicle
+  properties:
+  - name: vehicle_power
+  - name: vehicle_power
+- kind: Reviews
+  properties:
+  - name: ev_id
+  - name: date
+    direction: desc
