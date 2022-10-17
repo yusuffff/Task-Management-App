@@ -1,11 +1,12 @@
 **Task-Management-App**
 A task management system that can deal with tasks of multiple users. Users will have the ability to create task boards which are collections of tasks. Users will also have the ability to invite other users to see and interact with their created boards. 
 This project will contribute to effective task or project execution by automating the management process involved in the successful completion of a project.
-Host: Google App Engine
+
+*Host: Google App Engine
 Platform: Firebase 
 Language: Python, HTML, CSS, js.
 
-**STEPS**
+*Running instructions*
 Write a model to describe a task board (collection of tasks and users), a task, and a user
 Add the ability for a user to create a task board. If a board is created it should be visible to the created user.
 Add the ability for a user to click into a task board. This should go to a separate page and display the task board.
